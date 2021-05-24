@@ -1,0 +1,21 @@
+{
+    "name":"Easy Coding",
+    "version":"1.0",
+    "author":"darkedge",
+    "website":"https://www.baidu.com",
+    "description":"Easy coding for work",
+    "menu":[
+        {
+            "id":"easy-lazy",
+            "name":"Create Lazy"
+        },
+        {
+            "id":"easy-import",
+            "name":"import"
+        },
+        {
+            "id":"easy-cell",
+            "name":"Create Lazy With Cell"
+        }
+    ]
+}
